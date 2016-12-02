@@ -21,3 +21,6 @@ gem "minimal-mistakes-jekyll"
 group :jekyll_plugins do
    gem "jekyll-feed", "~> 0.6"
 end
+gem "jekyll-mentions"
+gem "jekyll-redirect-from"
+gem "jekyll-sitemap"
